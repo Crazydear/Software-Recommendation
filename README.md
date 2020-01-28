@@ -37,8 +37,8 @@
 [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor)   功能强大，强烈推荐
 
 # 四、常用软件
-[QQ   ](https://im.qq.com/)
-[微信   ](https://weixin.qq.com/)
-[谷歌浏览器    ](https://www.google.cn/intl/zh-CN/chrome/)
-[百度网盘   ](https://pan.baidu.com/download)
-[Typora   ](https://typora.io/)
+[QQ](https://im.qq.com/)、
+[微信](https://weixin.qq.com/)、
+[谷歌浏览器](https://www.google.cn/intl/zh-CN/chrome/)、
+[百度网盘](https://pan.baidu.com/download)、
+[Typora](https://typora.io/)、
