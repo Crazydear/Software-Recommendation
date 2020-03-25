@@ -34,6 +34,8 @@
 
 [QQ影音](https://player.qq.com/)
 
+[Captura](https://mathewsachin.github.io/Captura/)    免费开源的屏幕录制软件
+
 [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor)   功能强大，强烈推荐
 
 # 四、常用软件
